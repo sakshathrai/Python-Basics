@@ -12,12 +12,6 @@ area
 ```
 
     Area of Triangle : 
-    
-
-
-
-
-
     104.55
 
 
